@@ -61,6 +61,7 @@ Those properly on frequency will know what to do.
 
 All things gaming — built with intention and abundance.
 
-<!-- The real door is hidden in the source. -->
+<!-- Look deeper. -->
+
 
 
