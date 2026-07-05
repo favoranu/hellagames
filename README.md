@@ -61,9 +61,6 @@ Those properly on frequency will know what to do.
 
 All things gaming — built with intention and abundance.
 
-<!-- 
-The real door is hidden in the source.
-If you are seeking the frequency, look in the root.
-Start with I AM.
--->
+<!-- The real door is hidden in the source. -->
+
 
