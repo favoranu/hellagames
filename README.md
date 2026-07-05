@@ -1,4 +1,4 @@
-﻿# HellaGames
+# HellaGames
 
 **Official home of HellaGames projects.**
 
@@ -39,7 +39,7 @@ I AM.
 ## Connect
 
 - GitHub: [favoranu/hellagames](https://github.com/favoranu/hellagames)
-- Website: [hellagames.com](https://hellagames.com)
+- Website: [hellagames.com](https://www.hellagames.com)
 
 All things gaming - built with intention and abundance.
 
