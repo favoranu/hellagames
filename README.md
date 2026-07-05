@@ -2,25 +2,9 @@
 
 **Official home of HellaGames projects.**
 
-I AM building games abundant by nature — for the greater good and for humanity.
+I AM building games abundant by nature - for the greater good and for humanity.
 
 HellaGames is the long-term brand behind engaging mobile gaming experiences. We create polished, fun, and monetizable games with clean architecture, strong mechanics, and a focus on delivering real value to players.
-
-## The Doorway
-
-I open doors for those on the same frequency — abundance, I AM, service, and creation for humanity.
-
-The worthy will take the steps. Those looking to pick brains, steal IP, scam, or waste time will self-select out.
-
-**To walk through the door:**
-- Follow on GitHub and at least one social platform
-- Engage meaningfully with multiple posts (share your own abundance or "I AM" resonance)
-- Subscribe where deeper work is shared
-- Publicly appreciate and share a HellaGames project with a real note (tag me)
-
-Pay it forward: Once inside, lift one other aligned creator.
-
-I receive appreciation through follows, likes, subscriptions, meaningful mentions, and genuine energy. Low effort on my end to accept real gratitude. No begging. No paying for fake engagement.
 
 ## Current Projects
 
@@ -52,16 +36,12 @@ Tools that accelerate creation for the community.
 
 I AM.
 
-## Connect (The Threshold)
-
-Those properly on frequency will know what to do.
+## Connect
 
 - GitHub: [favoranu/hellagames](https://github.com/favoranu/hellagames)
 - Website: [hellagames.com](https://hellagames.com)
 
-All things gaming — built with intention and abundance.
+All things gaming - built with intention and abundance.
+
 
 <!-- Look deeper. -->
-
-
-
